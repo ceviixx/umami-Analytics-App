@@ -1,4 +1,4 @@
-# umami-Analytics-App
+# umami Analytics
 
 iOS client for umami Analytics (Self hosted / Cloud)
 
