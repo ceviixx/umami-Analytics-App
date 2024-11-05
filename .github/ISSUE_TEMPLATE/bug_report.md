@@ -28,5 +28,9 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. iOS8.1]
  - Version [e.g. 22]
 
+**Wich umami instance you're using::**
+- Type: [e.g. Cloud / Self hosted]
+- Version (Self hosted): [e.g. 2.1.1]
+
 **Additional context**
 Add any other context about the problem here.
