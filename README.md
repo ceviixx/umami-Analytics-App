@@ -20,7 +20,7 @@ You can access your **Self hosted** & **Cloud** instances
 - [x] Compare with prev. timerange
 - [x] View reports
       
-##ä Additional features
+### Additional features
 - [x] Manage websites
 - [x] Manage teams
 - [x] Manage users
