@@ -1,7 +1,7 @@
 name: Close inactive issues
 on:
   schedule:
-    - cron: "* 0 */5 * *"
+    - cron: "0 2 * * *"
 
 jobs:
   close-issues:
@@ -19,5 +19,5 @@ jobs:
           close-issue-message: "This issue was closed because it has been inactive for 14 days since being marked as stale."
           days-before-pr-stale: -1
           days-before-pr-close: -1
+          exempt-issue-labels: "in-progress" # ignore Issues with this label
           repo-token: ${{ secrets.GITHUB_TOKEN }}
-
