@@ -1,53 +1,95 @@
-<div align="center">
-    <img src="screenshots/00.png" width="160" alt="umami Analytics App Icon">
+<p align="center">
+  <img src="screenshots/00.png" width="160" alt="umami Analytics App Icon" />
+</p>
 
-# umami Analytics
-Your iOS Client for [umami Analytics](https://umami.is) (Self-Hosted & Cloud)
-    
-</div>
+<h1 align="center">📈 umami Analytics for iOS</h1>
+<p align="center">
+  Your elegant iOS client for <a href="https://umami.is" target="_blank">umami Analytics</a> — self-hosted or cloud.
+</p>
 
-Experience umami Analytics on your iOS device.\
-Easily access all your key metrics, whether you use a self-hosted or cloud-based umami instance.
+<p align="center">
+  <a href="https://apps.apple.com/app/apple-store/id6475239611?pt=118179829&ct=Github&mt=8">
+      <img src="https://img.shields.io/badge/App%20Store-Download-yellow?style=for-the-badge&logo=apple&logoColor=white" alt="App Store Download" height="28" />
+    <!-- <img src="https://github.com/user-attachments/assets/6b731cd7-e81c-4ce4-9257-7f4dab62cec5" alt="Download on the App Store" height="35" /> -->
+  </a>
+  &nbsp;
+  <a href="https://testflight.apple.com/join/AYfPX1Ut">
+    <img src="https://img.shields.io/badge/TestFlight-Beta-orange?style=for-the-badge&logo=apple" alt="TestFlight Beta" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/1309858624851546242">
+      <img src="https://img.shields.io/badge/Discord-Join-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord join" height="28" />
+  </a>
+</p>
 
-<table>
+---
+
+### 🚀 Instantly access your website metrics on the go
+
+Whether you're running a **self-hosted** umami instance or using the official **Cloud** service — this app gives you fast, reliable, and intuitive access to all your key data.
+
+---
+
+### 📸 Screenshots
+
+<table align="center">
   <tr>
-    <td><img src="screenshots/01.png" width="300" /></td>
-    <td><img src="screenshots/02.png" width="300" /></td>
-    <td><img src="screenshots/03.png" width="300" /></td>
-    <td><img src="screenshots/04.png" width="300" /></td>
+    <td><img src="screenshots/01.png" width="200" /></td>
+    <td><img src="screenshots/02.png" width="200" /></td>
+    <td><img src="screenshots/03.png" width="200" /></td>
+    <td><img src="screenshots/04.png" width="200" /></td>
   </tr>
 </table>
 
-### 🌟 Key Features
-- Comprehensive Metrics: Stay on top of all essential analytics.\
-- Event Tracking: Monitor and analyze specific events.\
-- Session Overview: Gain detailed insights into user behavior.\
-- Real-Time Visitors: See who is currently browsing your site.\
-- Time Range Comparisons: Compare current data with previous periods for deeper analysis.\
-- Report Generation: Create and share detailed reports with ease.
+---
 
-### 🔧 Additional Features
-- Website Management: Add new websites or modify existing ones.\
-- Team Management: Manage team members and their access permissions.\
-- User Administration: Create and manage user accounts directly from the app.
+### 🌟 Core Features
 
-### 🛠 Requirements
-- umami Analytics: A running instance of umami Analytics self-hosted or an cloud account.\
-    - Cloud: An API key\
-    - Self hosted: Hostname, username and password
+- 📊 **Dashboard Overview** – Key metrics at a glance
+- 👀 **Real-Time Visitors** – Monitor live traffic
+- 🧭 **Session Insights** – Explore user behavior
+- 🎯 **Event Tracking** – Analyze key interactions
+- ⏱ **Time Range Comparison** – Track trends over time
+- 📄 **Detailed Reports** – Share insights easily
 
-### 🚀 Quick Start
-1.	Download the app: Install it from the App Store or via TestFlight.
-2.	Log in: Enter your umami instance URL and credentials or the API key from cloud.
-3.	Start analyzing: Access your analytics data directly on your iOS device.
+---
 
-### 📝 Feedback & Support
-We’d love to hear your feedback!
-For questions or suggestions, visit the Discord channel or create an issue in this repository.
+### 🛠 Administration Tools
 
-<div align="center">
-      
-[<img alt="Download on the App Store" src="https://github.com/user-attachments/assets/6b731cd7-e81c-4ce4-9257-7f4dab62cec5" height=28px />](https://apps.apple.com/app/apple-store/id6475239611?pt=118179829&ct=Github&mt=8) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1309858624851546242)\
-[TestFlight Beta](https://testflight.apple.com/join/AYfPX1Ut) 
+- 🌐 **Manage Websites** – Add, edit, or delete tracked sites
+- 👥 **Team Access** – Configure roles and permissions
+- 🛂 **User Management** – Create and manage umami users
 
-</div>
+---
+
+### 📌 Requirements
+
+A running **umami Analytics** instance:
+
+- ☁️ **Cloud**: Requires an API key from [umami.is](https://umami.is)
+- 🖥 **Self-Hosted**: Needs hostname, username & password
+
+> ✅ Compatible with **umami v2+**, both cloud and self-hosted.
+
+---
+
+### ⚡️ Get Started in 3 Steps
+
+1. **Download** from the [App Store](https://apps.apple.com/app/apple-store/id6475239611?pt=118179829&ct=Github&mt=8) or [TestFlight](https://testflight.apple.com/join/AYfPX1Ut)
+2. **Connect** with your umami instance (Cloud or Self-Hosted)
+3. **Explore** your analytics — anytime, anywhere
+
+---
+
+### 💬 Feedback & Community
+
+Have ideas, issues, or just want to chat?
+
+- 💬 Join on [Discord](https://discord.com/users/1309858624851546242)
+- 🐞 Report issues or request features via [GitHub Issues](../../issues)
+
+---
+
+<p align="center">
+  <em>Made with ❤️ for privacy-focused analytics enthusiasts.</em>
+</p>
