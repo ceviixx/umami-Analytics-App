@@ -1,0 +1,18 @@
+name: 📱 UI/UX Feedback
+description: Share feedback on design or user experience
+title: "[UX]: "
+labels: [ui, feedback]
+body:
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What's your UI/UX feedback?
+      placeholder: What seems unclear, annoying, or could be improved?
+    validations:
+      required: true
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Do you have a suggestion for improvement?
+      placeholder: Optional – what would you do differently?
