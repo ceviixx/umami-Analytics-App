@@ -1,36 +1,49 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: bug
-assignees: ''
+name: 🐞 Bug Report
+description: Report a bug or unexpected behavior in the app
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: App Version
+      placeholder: e.g. 1.2.3
+    validations:
+      required: true
 
----
+  - type: input
+    id: device
+    attributes:
+      label: Device and iOS Version
+      placeholder: e.g. iPhone 13 Pro, iOS 17.4
+    validations:
+      required: true
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. Open the app
+        2. Navigate to ...
+        3. Tap on ...
+        4. Bug occurs
+    validations:
+      required: true
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      placeholder: What did you expect to happen?
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or screen recordings (optional)
+      placeholder: Drag a file here or paste it
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Version [e.g. 22]
-
-**Wich umami instance you're using::**
-- Type: [e.g. Cloud / Self hosted]
-- Version (Self hosted): [e.g. 2.1.1]
-
-**Additional context**
-Add any other context about the problem here.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Crash logs or console output (optional)
