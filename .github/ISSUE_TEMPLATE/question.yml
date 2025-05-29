@@ -1,0 +1,18 @@
+name: 🙋 Question / Help
+description: Ask a question or request help
+title: "[Question]: "
+labels: [question]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: What would you like to ask?
+      placeholder: Describe your question or what you're unsure about.
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: App Version (optional)
+      placeholder: e.g. 1.2.3
