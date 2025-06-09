@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/00.png" width="160" alt="umami Analytics App Icon" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/72/07/51720712-931b-117a-9611-08d25a838b3b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/460x0w.webp" width="160" alt="umami Analytics App Icon" />
 </p>
 
 <h1 align="center">📈 umami Analytics for iOS</h1>
@@ -34,10 +34,10 @@ Whether you're running a **self-hosted** umami instance or using the official **
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/01.png" width="200" /></td>
-    <td><img src="screenshots/02.png" width="200" /></td>
-    <td><img src="screenshots/03.png" width="200" /></td>
-    <td><img src="screenshots/04.png" width="200" /></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/ae/b5/61aeb56f-1087-dff1-a18c-1e2f62dac468/1.png/460x0w.webp" width="200" /></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/29/f3/ed29f33b-c98d-5763-bf3a-4238057c7419/2.png/460x0w.webp" width="200" /></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/1c/47/5f1c4734-1d5f-71a6-a5ea-68d1b17a6133/3.png/460x0w.webp" width="200" /></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/fa/39/d4fa3941-e765-35eb-8375-b3b2d16e9d98/4.png/460x0w.webp" width="200" /></td>
   </tr>
 </table>
 
