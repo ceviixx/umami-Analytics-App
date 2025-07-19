@@ -2,7 +2,7 @@
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/72/07/51720712-931b-117a-9611-08d25a838b3b/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/460x0w.webp" width="160" alt="umami Analytics App Icon" />
 </p>
 
-<h1 align="center">📈 umami Analytics for iOS</h1>
+<h1 align="center">📈 umami Analytics</h1>
 <p align="center">
   Your elegant iOS client for <a href="https://umami.is" target="_blank">umami Analytics</a> — self-hosted or cloud.
 </p>
